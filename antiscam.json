@@ -1,0 +1,12 @@
+{
+    "action": "no",
+    "deletemessage": "yes",
+    "logsdirectchannel": "no",
+    "logs": "yes",
+    "logschannel": "ID CHANNEL LOGS",
+    "infosuser": "yes",
+    "infoserver": "yes",
+    "pingrole": "ID ROLE PING",
+    "emoji": "yes",
+    "banlink": "EMOJI"
+}
