@@ -19,6 +19,11 @@ OldModz95
 
 https://discord.gg/MS6TMgRfqB
 <br><br>
+
+[VIDEO SETUP INSTALLATION](https://youtu.be/tgSMv6MzwpQ)
+
+<br><br>
+
 ## Installation
 <br>
 
